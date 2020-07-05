@@ -1,3 +1,5 @@
+# This is Photo Editor repo for editing profile pictures in circular imageView based on ucrop. 
+
 # uCrop - Image Cropping Library for Android
 
 #### This project aims to provide an ultimate and flexible image cropping experience. Made in [Yalantis](https://yalantis.com/?utm_source=github)
