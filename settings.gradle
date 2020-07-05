@@ -1,0 +1,2 @@
+include ':photoeditor'
+include ':ucrop', ':sample'
